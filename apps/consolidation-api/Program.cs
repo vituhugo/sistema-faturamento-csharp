@@ -1,6 +1,5 @@
 using System.Text.Json;
 using ConsolidationApi.core;
-using ConsolidationApi.core.Models;
 using ConsolidationApi.core.Repositories;
 using ConsolidationApi.Data;
 using Microsoft.EntityFrameworkCore;
@@ -58,7 +57,7 @@ using (var scope = app.Services.CreateScope())
 
     var services = scope.ServiceProvider;
 
-    ConsolidationApi.database.SeedData.Initialize(services);
+    SeedData.Initialize(services);
     
     
     if (args.Contains("consolidate"))

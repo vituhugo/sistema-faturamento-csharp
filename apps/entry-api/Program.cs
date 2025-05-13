@@ -1,7 +1,12 @@
-using EntryApi.core;
-using EntryApi.core.Repositories;
-using EntryApi.database.Data;
+using System;
+using System.Linq;
+using EntryApi.Application;
+using EntryApi.Application.Repositories;
+using EntryApi.Data;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
