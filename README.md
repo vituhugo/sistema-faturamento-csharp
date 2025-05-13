@@ -2,7 +2,6 @@
 
 [![Docker](https://img.shields.io/badge/docker-ready-blue?logo=docker)](https://www.docker.com/)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
-[![Node.js](https://img.shields.io/badge/node.js-18+-success?logo=node.js)](https://nodejs.org/)
 [![Grafana Observability](https://img.shields.io/badge/observability-grafana-orange?logo=grafana)](https://grafana.com/)
 
 ---
@@ -61,7 +60,6 @@
 |-----------------------------------------------|---------------|
 | Docker                                        | 26+           |
 | Docker Compose                                | 2+            |
-| Node.js (opcional para desenvolvimento local) | 22+           |
 
 ---
 
