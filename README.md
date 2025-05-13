@@ -147,7 +147,7 @@ Foram realizadas **500 conexões simultaneas**, durante **5 minutos**, ao endpoi
 
 | Label                  | Quantidade | Média (ms) | Mínimo (ms) | Máximo (ms) | Erros (%) | Throughput (req/seg) | KB Recebidos/seg | KB Enviados/seg |
 |-------------------------|------------|------------|-------------|-------------|-----------|----------------------|------------------|-----------------|
-| Criação de Lançamentos  | 325.969    | 455        | 38          | 993         | 0.0%      | 1079.31              | 408.314          | 273.544         |
+| Criação de Lançamentos  | 150000    | 173.71        | 2           | 490         | 0.0%      | 2175.46              | 963.24          | 545.13         |
 
 ---
 

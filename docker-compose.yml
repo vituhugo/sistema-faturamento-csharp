@@ -8,8 +8,6 @@ services:
     build: ./apps/entry-api
     environment:
       ConnectionStrings__DefaultConnection: "Host=pg_entry_primary;Port=5432;Database=postgres;Username=postgres;Password=password"
-    ports:
-      - "5001:8080"
     depends_on:
       - pg_entry_primary
   consolidation-api:
