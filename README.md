@@ -1,11 +1,3 @@
-## Como usar
-
-1. Configure a senha SA no `docker-compose.yml`.
-2. Execute:
-   ```bash
-   docker-compose up --build
-   ```
-
 # Sistema de Faturamento — Monorepo
 
 [![Docker](https://img.shields.io/badge/docker-ready-blue?logo=docker)](https://www.docker.com/)
@@ -79,11 +71,6 @@ Clone o repositório:
 ```bash
 git clone https://github.com/vituhugo/sistema-faturamento.git
 cd sistema-faturamento
-```
-
-Configure as variáveis de ambiente:
-```bash
-cp .env.example .env
 ```
 
 Suba os containers:
