@@ -1,0 +1,201 @@
+type,amount,description
+debit,49224,Exemplo fictício básico
+debit,43955,Entrada simulada
+debit,30011,Crédito automático
+credit,36716,Teste de movimentação
+debit,12027,Registro de operação
+credit,14056,Débito de teste
+debit,17187,Valor para análise aleatória
+debit,265,Entrada genérica
+credit,23277,Lorem ipsum sit dot amet
+debit,23522,Débito de teste
+debit,22495,Pagamento realizado
+debit,38587,Pagamento realizado
+credit,12276,Débito de teste
+debit,9139,Despesa inesperada
+credit,17949,Outra aleatória
+credit,25524,Teste de movimentação
+credit,25668,Exemplo de crédito
+credit,44945,Outra aleatória
+debit,8270,Exemplo de débito
+debit,282,Recebimento confirmado
+credit,25775,Exemplo de débito
+credit,19809,Saldo atualizado
+credit,6187,Pagamento efetuado
+debit,5687,Ajuste contábil
+credit,11105,Transação bancária
+debit,3096,Exemplo fictício básico
+credit,18283,Saída simulada
+debit,37417,Saldo atualizado
+credit,39609,Valor para análise aleatória
+debit,18788,Fatura recebida
+credit,31613,Transação modelo
+debit,41478,Lançamento automático
+credit,32541,Movimentação bancária
+credit,44708,Conciliação bancária
+credit,14119,Pagamento realizado
+credit,13236,Venda realizada
+credit,15563,Transferência de crédito
+debit,25077,Saldo atualizado
+credit,16380,Pagamento efetuado
+debit,44601,Fatura recebida
+credit,12090,Lorem ipsum sit dot amet
+debit,25693,Saída genérica
+credit,47921,Exemplo de débito
+debit,36287,Pagamento efetuado
+debit,9509,Transação bancária
+debit,49940,Entrada de exemplo simples
+credit,38910,Entrada simulada
+credit,9209,Fatura paga
+credit,48987,aleatória Descrição
+credit,49372,Recebimento confirmado
+credit,15511,Recebimento confirmado
+credit,27516,Recebimento confirmado
+credit,19351,Saída simulada
+debit,7434,Entrada simulada
+credit,18212,Entrada genérica
+credit,28252,Qualquer descrição aleatória
+credit,9786,Simulação de entrada
+debit,47357,Compra realizada
+debit,19165,Débito de teste
+credit,9354,Movimentação manual
+debit,27177,Crédito automático
+debit,49646,Ajuste contábil
+credit,4607,Conciliação bancária
+credit,46284,Débito automático
+debit,44291,Crédito para exemplo
+debit,2527,Crédito automático
+debit,24447,Transferência de crédito
+debit,40862,Crédito automático
+credit,5435,Saída genérica
+debit,2672,Entrada genérica
+debit,35233,Saída simulada
+credit,14108,Movimentação bancária
+debit,25839,Débito de teste
+credit,19835,Lançamento automático
+debit,15637,Transferência interna
+credit,15601,Saída simulada
+credit,25255,Receita extra
+debit,29521,Crédito para exemplo
+credit,32054,Débito automático
+credit,42742,Saída simulada
+credit,18113,Simulação de saída
+debit,33050,Entrada genérica
+credit,19735,Entrada simulada
+debit,46056,Texto simulado para testes
+debit,4895,Teste de movimentação
+credit,38493,Recebimento confirmado
+credit,44263,Entrada genérica
+credit,41753,Lorem ipsum sit dot amet
+debit,33504,Lorem ipsum sit dot amet
+credit,43870,Texto simulado para testes
+credit,6197,aleatória Descrição
+debit,15412,Exemplo aleatório
+debit,4904,Crédito automático
+debit,27936,Transferência interna
+credit,23644,Compra realizada
+credit,18772,Saída simulada
+credit,17718,Outra aleatória
+debit,24331,Entrada genérica
+credit,6230,aleatória Descrição
+credit,32581,Movimentação manual
+debit,2011,Exemplo aleatório
+debit,39462,Exemplo de débito
+credit,17276,Entrada genérica
+credit,47858,Despesa inesperada
+debit,17508,aleatória Descrição
+credit,39512,Entrada de exemplo simples
+credit,34002,Exemplo aleatório
+debit,28495,Valor para análise aleatória
+debit,40610,Transação modelo
+credit,42615,Entrada simulada
+credit,459,Entrada simulada
+debit,26792,Exemplo fictício básico
+credit,21057,Transação modelo
+debit,26740,Fatura paga
+credit,38639,Fatura paga
+debit,41170,Fatura paga
+credit,3953,Exemplo fictício básico
+credit,15873,Transação bancária
+credit,12135,Débito automático
+debit,10355,Saída genérica
+debit,35379,Simulação de entrada
+debit,49176,Conciliação bancária
+credit,5083,Movimentação bancária
+credit,45156,Exemplo aleatório
+debit,20276,Recebimento confirmado
+credit,31189,Crédito automático
+debit,31586,Valor para análise aleatória
+debit,47499,Transferência de crédito
+credit,23877,Ajuste contábil
+debit,21795,Transferência interna
+debit,2714,Transferência de crédito
+credit,36635,Entrada de exemplo simples
+credit,32741,Entrada genérica
+debit,26755,Entrada de exemplo simples
+debit,49844,Lorem ipsum sit dot amet
+debit,674,Crédito para exemplo
+credit,49518,Transferência de crédito
+debit,6685,Pagamento realizado
+debit,35527,Débito de teste
+credit,32663,Exemplo aleatório
+credit,27633,Texto simulado para testes
+debit,22381,Entrada simulada
+debit,17995,Outra aleatória
+credit,30595,Transação modelo
+debit,3782,Teste de movimentação
+credit,20728,Exemplo de débito
+credit,28578,Texto simulado para testes
+debit,41816,Não sei o que escrever
+debit,43074,Saída genérica
+credit,20292,Lorem ipsum sit dot amet
+credit,30238,aleatória Descrição
+credit,39795,Débito de teste
+debit,49113,Exemplo de crédito
+credit,21957,Teste de movimentação
+credit,8847,Lorem ipsum sit dot amet
+credit,20041,Transação modelo
+debit,18418,Exemplo fictício básico
+credit,34565,Não sei o que escrever
+credit,38776,Recebimento confirmado
+debit,46386,Exemplo de crédito
+credit,40719,aleatória Descrição
+credit,7278,Simulação de entrada
+debit,38945,Transação modelo
+credit,20061,Qualquer descrição aleatória
+credit,19473,Transação bancária
+credit,31039,Valor para análise aleatória
+debit,5027,Exemplo de débito
+credit,24476,Simulação de entrada
+credit,18859,Entrada genérica
+credit,4604,Exemplo fictício básico
+debit,18991,Lorem ipsum sit dot amet
+credit,40245,Recebimento confirmado
+credit,14076,aleatória Descrição
+credit,8177,Débito automático
+credit,6450,Valor para análise aleatória
+credit,18475,Lorem ipsum sit dot amet
+debit,6041,Exemplo de débito
+credit,27439,Entrada de exemplo simples
+debit,5638,Entrada genérica
+debit,45981,Conciliação bancária
+credit,903,Transação modelo
+debit,37908,Compra realizada
+credit,44702,Recebimento confirmado
+credit,23114,Movimentação bancária
+debit,27027,Exemplo fictício básico
+debit,41269,Pagamento efetuado
+credit,39600,Não sei o que escrever
+credit,43131,Outra aleatória
+credit,2769,aleatória Descrição
+debit,40587,Receita extra
+credit,35232,Crédito para exemplo
+credit,48773,Entrada de exemplo simples
+debit,31037,Débito automático
+credit,44486,Crédito automático
+debit,49794,Débito de teste
+credit,49985,Conciliação bancária
+credit,16993,Crédito para exemplo
+credit,29530,Recebimento confirmado
+credit,14724,Transação bancária
+debit,6096,Crédito automático

@@ -1,0 +1,33 @@
+<div class="container mt-4">
+  <h3>Registrar Lançamento</h3>
+  <form (ngSubmit)="submit()" #launchForm="ngForm">
+    <div class="mb-3">
+      <label class="form-label">Data*</label>
+      <input type="datetime-local" class="form-control" required [(ngModel)]="launch.date" name="data">
+    </div>
+    <div class="row">
+      <div class="col-9 mb-3">
+        <label class="form-label">Valor*</label>
+        <input type="number" class="form-control" required [(ngModel)]="launch.amount" name="valor">
+      </div>
+      <div class="col-3 mb-3">
+        <label class="form-label">Tipo*</label>
+        <select class="form-select" required [(ngModel)]="launch.type" name="tipo">
+          <option value="credit">Crédito</option>
+          <option value="debit">Débito</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Descrição*</label>
+      <input type="text" class="form-control" required [(ngModel)]="launch.description" name="descricao">
+    </div>
+    <div class="row justify-content-end">
+      <div class="col-auto">
+        <button type="submit" class="btn btn-primary" [disabled]="launchForm.invalid">Salvar</button>
+      </div>
+    </div>
+    <div class="mt-2 text-success" *ngIf="message">{{ message }}</div>
+  </form>
+</div>

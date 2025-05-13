@@ -1,0 +1,15 @@
+services:
+  loadtest:
+    image: alpine/jmeter
+    profiles:
+      - never
+    depends_on:
+      - entry-api
+      - kong
+    volumes:
+      - ./jmeter-server/data:/data
+      - ./jmeter-server/plans/create-entries:/jmeter
+    command:
+      - '-q /jmeter/config.properties'
+      - '-n -t /jmeter/test-plan.jmx -l /data/results.csv'
+      - '-e -o /data/relatorio'
